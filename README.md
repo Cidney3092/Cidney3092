@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Cidney3092/Cidney3092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cidney Luiz Junior
 
-Here are some ideas to get you started:
+- Estou estudando conteúdos [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na Linguagem JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meu projeto desenvolvidos4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo pelo 📫
+
+cidney.luiz.junior@hotmail.com
+
+@cidneyljunior
+
+![](https://media.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif)
